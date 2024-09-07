@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+Web+Developer;CSS+Enthusiast!+;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=FrontEnd+Web+Developer;CSS+Enthusiast!+;Always+Eager+To+Learn+New+Tech!" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Frontend Developer. "I'm a ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6) Expert 🎨 and Colors Enthusiast! 🔴🟣🔵🟡🟢, Capable of bringing almost any design to life!"
