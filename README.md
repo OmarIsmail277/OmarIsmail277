@@ -36,6 +36,7 @@
 ### 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -44,6 +45,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+
+---
+
+### 🏆 Highlights & Achievements
+- 🚀 **Developed 25+ Live Projects** — [Explore Gallery](https://omar-ismail-gallery.netlify.app/) showcasing creativity, responsiveness, and strong attention to detail.
+- 🐝 **Healthy Hive** 🌿🐝 — ITI Graduation Project: A modern **E-Commerce Web App** built with **React**, **Supabase**, and **Tailwind CSS**, featuring authentication, wishlist, and cart functionality.  
+  🔗 [Live Demo → Healthy Hive](https://healthy-hive.netlify.app/)  
+- 🧠 Continuously exploring **frontend performance optimization** and **clean architecture patterns**.  
 
 ---
 
